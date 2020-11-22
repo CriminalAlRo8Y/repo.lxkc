@@ -45,6 +45,6 @@ SHA256: dca59ed6a2a07454b92e5ebfe72791518a0c5e85c534e917e8975394b44b8ad7
 Section: Tweaks
 Priority: optional
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3.1
-Author: CokePokes
+Author: lxkc
 Depiction: https://lxkc1.github.io/repo.lxkc/
 Name: SnapBreak lxkc
