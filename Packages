@@ -31,17 +31,17 @@ Author: CokePokes
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Name: AppStore++
 
-Package: com.yourepo.lxkc.snapbreaklxkc
+Package: com.yourepo.lxkc.snapbreak_1.7.1_iphoneos-arm.deb
 Version: 1.7.1
 Architecture: iphoneos-arm
 Maintainer: lxkc
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.uaupdatetools
-Filename: debs/com.yourepo.lxkc.snapbreaklxkc_11_iphoneos-arm.deb
+Filename: debs/com.yourepo.lxkc.snapbreak_1.7.1_iphoneos-arm.deb
 Size: 171
-MD5sum: f8cdde3d3eb61712d002f474a76ba155
-SHA1: 5f4c630cd912b7cdc54949b1fbda8bf2d02491db
-SHA256: dca59ed6a2a07454b92e5ebfe72791518a0c5e85c534e917e8975394b44b8ad7
+MD5sum: ec765f4023213917bf9e390e1fe23b26
+SHA1: dd1accc5d85d7ea7a16b6338de15980ec67514eb
+SHA256: 4c1edd5e73bb4f6053610a337b97a2805dd697cfc94a6492444e62a4fc9eda59
 Section: Tweaks
 Priority: optional
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3.1
